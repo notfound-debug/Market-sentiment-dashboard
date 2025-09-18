@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+market_env/
+
+# Node
+node_modules/
+build/
+.pnp.*
+.npm
+
+# VSCode
+.vscode/
